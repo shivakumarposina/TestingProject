@@ -29,14 +29,13 @@ public class SwapTwoIntegers {
 //		x = x / y;
 //		System.out.println("x value is : "+x);
 //	System.out.println("y value is : "+y);
-		
-		//using with xor
-		x= x^y;
-		y= x^y;
-		x= x^y;
-		System.out.println("x value is : "+x);
-		System.out.println("y value is : "+y);
-		
+
+		// using with xor
+		x = x ^ y;
+		y = x ^ y;
+		x = x ^ y;
+		System.out.println("x value is : " + x);
+		System.out.println("y value is : " + y);
 
 	}
 

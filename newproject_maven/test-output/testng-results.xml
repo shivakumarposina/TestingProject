@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="59956" started-at="2019-08-20T09:49:57Z" finished-at="2019-08-20T09:50:57Z">
+  <suite name="Default suite" duration-ms="41795" started-at="2019-12-22T14:40:17Z" finished-at="2019-12-22T14:40:59Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="59956" started-at="2019-08-20T09:49:57Z" finished-at="2019-08-20T09:50:57Z">
-      <class name="com.orangehrm.tests.sample.TestNaukari">
-        <test-method status="PASS" signature="TestPopUp()[pri:0, instance:com.orangehrm.tests.sample.TestNaukari@17cd7a0]" name="TestPopUp" duration-ms="59853" started-at="2019-08-20T15:19:57Z" finished-at="2019-08-20T15:20:57Z">
+    <test name="Default test" duration-ms="41795" started-at="2019-12-22T14:40:17Z" finished-at="2019-12-22T14:40:59Z">
+      <class name="com.orangehrm.tests.samplenew.TailarmanAddToBag">
+        <test-method status="PASS" signature="TestPopUp()[pri:0, instance:com.orangehrm.tests.samplenew.TailarmanAddToBag@17cd7a0]" name="TestPopUp" duration-ms="41715" started-at="2019-12-22T20:10:17Z" finished-at="2019-12-22T20:10:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestPopUp -->
-      </class> <!-- com.orangehrm.tests.sample.TestNaukari -->
+      </class> <!-- com.orangehrm.tests.samplenew.TailarmanAddToBag -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

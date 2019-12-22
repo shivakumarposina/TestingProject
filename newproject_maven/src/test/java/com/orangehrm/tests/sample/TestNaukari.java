@@ -3,6 +3,7 @@ package com.orangehrm.tests.sample;
 import java.util.Iterator;
 import java.util.Set;
 
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
@@ -12,7 +13,7 @@ public WebDriver driver;
 @Test
 public void TestPopUp() throws InterruptedException{
 // Open browser
-System.setProperty("webdriver.chrome.driver", "E:\\selenium project123\\newproject_maven\\resources\\drivers\\chromedriver.exe");
+System.setProperty("webdriver.chrome.driver", "E:\\selenium project123\\TestingProject\\newproject_maven\\resources\\drivers\\chromedriver.exe");
 WebDriver driver = new ChromeDriver();
 // Maximize browser
 driver.manage().window().maximize();

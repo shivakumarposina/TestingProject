@@ -10,8 +10,8 @@ public class ReverseAnInteger {
 			num = num / 10;
 
 		}
-		System.out.println("Reverse Number is:"  + rev);
-		
+		System.out.println("Reverse Number is:" + rev);
+
 		long num1 = 123456;
 		System.out.println(new StringBuffer(String.valueOf(num1)).reverse());
 	}
