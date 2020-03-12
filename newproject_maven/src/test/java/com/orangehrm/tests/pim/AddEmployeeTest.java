@@ -10,7 +10,6 @@ import com.orangehrm.tests.gobaltest.BaseTest;
 import com.orangehrm.utilities.ReadFromExcel;
 
 public class AddEmployeeTest extends BaseTest {
-
 	//@Test
 	public void verifyAddEmployee() {		
 

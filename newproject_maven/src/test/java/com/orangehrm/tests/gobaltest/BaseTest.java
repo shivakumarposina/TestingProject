@@ -38,7 +38,7 @@ public class BaseTest {
 		ReadFromExcel.initializeExcel(ReadProperty.readProperty("excelPath"));
 
 	}
-
+ 
 	@BeforeMethod
 	public void openBrowser(Method method) {
 
